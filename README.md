@@ -14,5 +14,5 @@
  - Resim Base URL: http://image.tmdb.org/t/p/original
 
 ## contact
-> https://www.linkedin.com/in/ilkhukuk/
-> ilkhukuk@gmail.com
+* https://www.linkedin.com/in/ilkhukuk/
+* ilkhukuk@gmail.com
