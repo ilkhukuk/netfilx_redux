@@ -1,4 +1,4 @@
-# 6-hi-netflix-clone-redux-thunk
+# NETFLIX CLONE - REDUX THUNK
 
 ## Kullanılacak Kütüphaneler
  - react-router-dom
